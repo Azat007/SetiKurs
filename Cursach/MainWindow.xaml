@@ -1,0 +1,38 @@
+﻿<Window x:Class="Cursach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cursach"
+        mc:Ignorable="d"
+        Title="File Transfer" Height="350" Width="350" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="NetGlobe.ico" Background="White" FontSize="12" BorderThickness="2" BorderBrush="Gray">
+    <Grid>
+        <TabControl x:Name="tabControl" HorizontalAlignment="Left" Height="322" VerticalAlignment="Top" Width="344" FontSize="12">
+            <TabItem Header="Главная">
+                <Grid Background="white">
+                    <Button x:Name="butBegin" Content="Настройки" HorizontalAlignment="Center" 
+                            Margin="10,10,10,10" VerticalAlignment="Center" Height="26" Width="75" FontSize="12" Click="butBegin_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="О Программе">
+                <Grid Background="White">
+                    <Label Content="Курсовая работа" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="120" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                    <Label Content='по дисциплине "Сетевые технологии в АСОИУ"' HorizontalAlignment="Center" Margin="0,85,0,0" VerticalAlignment="Top" Width="290" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                    <Label Content='на тему "Локальная безадаптерная сеть"' HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" Width="250" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Информация">
+                <Grid Background="White">
+                    <Label Content="Исполнители (студенты группы ИУ5-61)" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="260" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                    <Label Content="1. Тиманов А.Р. (прикладной уровень)" HorizontalAlignment="Center" Margin="0,90,0,0" VerticalAlignment="Top" Width="250" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                    <Label Content="2. Ефремов Н.Э. (канальный уровень)" HorizontalAlignment="Center" Margin="0,110,0,0" VerticalAlignment="Top" Width="250" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                    <Label Content="3. Гордеев Е. К. (физический уровень)" HorizontalAlignment="Center" Margin="0,130,0,0" VerticalAlignment="Top" Width="250" Height="30" FontSize="12" HorizontalContentAlignment="Center"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,78 @@
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.exe.config
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.exe.config
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Settings.g.cs
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\App.g.cs
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.cache
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.lref
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.exe
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.pdb
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\MainWindow.baml
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Settings.baml
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.g.resources
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.exe
+C:\Users\Игорь\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.pdb
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.exe
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.pdb
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.exe
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\bin\Debug\Cursach.pdb
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.csprojResolveAssemblyReference.cache
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\MainWindow.g.cs
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Settings.g.cs
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\App.g.cs
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.cache
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.lref
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\MainWindow.baml
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Settings.baml
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.g.resources
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+D:\OneDrive\универ\6 семестр\СТ\Курсовая\COMFileSharing\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\bin\Debug\Cursach.exe.config
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.exe
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.pdb
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\bin\Debug\Cursach.exe
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\bin\Debug\Cursach.pdb
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.csprojResolveAssemblyReference.cache
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\MainWindow.g.cs
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Settings.g.cs
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\App.g.cs
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.cache
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach_MarkupCompile.lref
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\MainWindow.baml
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Settings.baml
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.g.resources
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+C:\Users\diabl\Source\Repos\COMFileSharing\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\bin\Debug\Cursach.exe.config
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach.exe
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach.pdb
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\bin\Debug\Cursach.exe
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\bin\Debug\Cursach.pdb
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\MainWindow.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Settings.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\App.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach_MarkupCompile.cache
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach_MarkupCompile.lref
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\MainWindow.baml
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Settings.baml
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach.g.resources
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing-master\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\bin\Debug\Cursach.exe.config
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\bin\Debug\Cursach.exe
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\bin\Debug\Cursach.pdb
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\MainWindow.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Settings.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\App.g.cs
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach_MarkupCompile.cache
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach_MarkupCompile.lref
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\MainWindow.baml
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Settings.baml
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach.g.resources
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach.Properties.Resources.resources
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach.csproj.GenerateResource.Cache
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach.exe
+C:\Users\пользователь\Desktop\Азат(Учёба)\6 СЕМ\Курсовая СТ\Примеры\COMFileSharing(Наш)\Cursach\obj\Debug\Cursach.pdb
